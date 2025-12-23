@@ -23,8 +23,8 @@
 <h3 align="left">🎯 Current Focus</h3>
 <ul>
   <li>🔹 Java & Object-Oriented Programming</li>
-  <li>🔹 Web Development with Laravel & PHP</li>
-  <li>🔹 Android Development using Kotlin</li>
+  <li>🔹 Web Development</li>
+  <li>🔹 Android Development</li>
   <li>🔹 Database Design & SQL Optimization</li>
 </ul>
 
@@ -126,16 +126,6 @@
 
 <hr>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImaneBouali&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImaneBouali&theme=tokyonight" />
-</p>
-
-<hr>
 
 <p align="center">
   🌍 From Meknes, Morocco 🇲🇦 <br>
